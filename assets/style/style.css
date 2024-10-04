@@ -1,0 +1,92 @@
+main{
+    text-align: start;
+}
+#div-primerContenido{
+    height: 300%;
+    width: 100%;
+    background-image: url(https://travelphotomagazine.com/wp-content/uploads/2023/07/curiosidades-Maldivas-5.jpg);
+    display: flex;
+}    
+#div_principal{
+    text-align: center;
+    margin: 25px 300px;
+}
+
+#formulario{
+    margin: 10px 600px; 
+    background-color: white;
+    padding: 10px;
+}
+
+.input_form{ 
+    width: 300px;
+    height: 20px;
+    border: 16%;
+    display: list-item;
+    
+}
+input{
+    margin: 15px;
+}
+
+#boton_Win{
+    background-color: aqua;
+    margin: 5px 70px;
+    width: 200px;
+    border: solid 1px aqua;
+    height: 47px;
+    color: white;
+}
+h1, p{
+    color: black;
+}
+
+
+#div-segundoContenido{
+    padding: 1% ;
+    background-color: white;
+    text-align: center;
+}
+.parrafo_texto{
+    color: black;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    padding: 15px;
+}
+#div_fotosContenido{
+    margin: 100px;
+    padding: 100px 200px;
+}
+#div-botton{
+    margin: 1px 40%;
+}
+
+#div_footer{
+
+    background-color: aquamarine;
+    width: 1400px;
+    height: 300px;
+    margin: 10px 200px;
+    align-content: center;
+}
+
+#texto_footer{
+    text-align: center;
+}
+#img_footer{
+    width: 50px;
+    margin: 5px 20px;
+}
+
+h1 , p {
+    color: white;
+}
+
+#borde{
+    width: 10%;
+    border: solid 1px gray;
+    margin: 1px 45%;
+}
